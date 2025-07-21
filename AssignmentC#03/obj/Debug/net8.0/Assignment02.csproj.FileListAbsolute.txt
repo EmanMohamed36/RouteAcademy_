@@ -1,0 +1,14 @@
+F:\RouteAcademy\C#SessionsBasic\C#session2\Assignment02\bin\Debug\net8.0\Assignment02.exe
+F:\RouteAcademy\C#SessionsBasic\C#session2\Assignment02\bin\Debug\net8.0\Assignment02.deps.json
+F:\RouteAcademy\C#SessionsBasic\C#session2\Assignment02\bin\Debug\net8.0\Assignment02.runtimeconfig.json
+F:\RouteAcademy\C#SessionsBasic\C#session2\Assignment02\bin\Debug\net8.0\Assignment02.dll
+F:\RouteAcademy\C#SessionsBasic\C#session2\Assignment02\bin\Debug\net8.0\Assignment02.pdb
+F:\RouteAcademy\C#SessionsBasic\C#session2\Assignment02\obj\Debug\net8.0\Assignment02.GeneratedMSBuildEditorConfig.editorconfig
+F:\RouteAcademy\C#SessionsBasic\C#session2\Assignment02\obj\Debug\net8.0\Assignment02.AssemblyInfoInputs.cache
+F:\RouteAcademy\C#SessionsBasic\C#session2\Assignment02\obj\Debug\net8.0\Assignment02.AssemblyInfo.cs
+F:\RouteAcademy\C#SessionsBasic\C#session2\Assignment02\obj\Debug\net8.0\Assignment02.csproj.CoreCompileInputs.cache
+F:\RouteAcademy\C#SessionsBasic\C#session2\Assignment02\obj\Debug\net8.0\Assignment02.dll
+F:\RouteAcademy\C#SessionsBasic\C#session2\Assignment02\obj\Debug\net8.0\refint\Assignment02.dll
+F:\RouteAcademy\C#SessionsBasic\C#session2\Assignment02\obj\Debug\net8.0\Assignment02.pdb
+F:\RouteAcademy\C#SessionsBasic\C#session2\Assignment02\obj\Debug\net8.0\Assignment02.genruntimeconfig.cache
+F:\RouteAcademy\C#SessionsBasic\C#session2\Assignment02\obj\Debug\net8.0\ref\Assignment02.dll
