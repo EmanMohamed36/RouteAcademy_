@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\RouteAcademy\\Assignments\\OOP\\Assignment03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22ADA8A8-7BE3-44B1-8B96-F31817607585}|ThirdProject\\ThirdProject.csproj|f:\\routeacademy\\assignments\\oop\\assignment03\\thirdproject\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22ADA8A8-7BE3-44B1-8B96-F31817607585}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22ADA8A8-7BE3-44B1-8B96-F31817607585}|ThirdProject\\ThirdProject.csproj|f:\\routeacademy\\assignments\\oop\\assignment03\\thirdproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22ADA8A8-7BE3-44B1-8B96-F31817607585}|ThirdProject\\ThirdProject.csproj|solutionrelative:thirdproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\RouteAcademy\\Assignments\\OOP\\AssignmentOOP02\\Employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\RouteAcademy\\Assignments\\OOP\\AssignmentOOP02\\HiringDate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\RouteAcademy\\Assignments\\OOP\\AssignmentOOP01\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB8AED-8586-4D94-A761-786752B0ECD9}|SecondProject\\SecondProject.csproj|f:\\routeacademy\\assignments\\oop\\assignment03\\secondproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB8AED-8586-4D94-A761-786752B0ECD9}|SecondProject\\SecondProject.csproj|solutionrelative:secondproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB8AED-8586-4D94-A761-786752B0ECD9}|SecondProject\\SecondProject.csproj|f:\\routeacademy\\assignments\\oop\\assignment03\\secondproject\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB8AED-8586-4D94-A761-786752B0ECD9}|SecondProject\\SecondProject.csproj|solutionrelative:secondproject\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8B7F05-FA3F-4726-A814-FA84064469DB}|Assignment03\\Assignment03.csproj|f:\\routeacademy\\assignments\\oop\\assignment03\\assignment03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8B7F05-FA3F-4726-A814-FA84064469DB}|Assignment03\\Assignment03.csproj|solutionrelative:assignment03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8B7F05-FA3F-4726-A814-FA84064469DB}|Assignment03\\Assignment03.csproj|f:\\routeacademy\\assignments\\oop\\assignment03\\assignment03\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8B7F05-FA3F-4726-A814-FA84064469DB}|Assignment03\\Assignment03.csproj|solutionrelative:assignment03\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\OOP\\AssignmentOOP02\\Employees.cs",
+              "RelativeDocumentMoniker": "..\\AssignmentOOP02\\Employees.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\OOP\\AssignmentOOP02\\Employees.cs",
+              "RelativeToolTip": "..\\AssignmentOOP02\\Employees.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T10:08:20.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HiringDate.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\OOP\\AssignmentOOP02\\HiringDate.cs",
+              "RelativeDocumentMoniker": "..\\AssignmentOOP02\\HiringDate.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\OOP\\AssignmentOOP02\\HiringDate.cs",
+              "RelativeToolTip": "..\\AssignmentOOP02\\HiringDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T10:08:11.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\OOP\\AssignmentOOP01\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AssignmentOOP01\\Program.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\OOP\\AssignmentOOP01\\Program.cs",
+              "RelativeToolTip": "..\\AssignmentOOP01\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T10:07:50.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Duration.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\OOP\\Assignment03\\ThirdProject\\Duration.cs",
+              "RelativeDocumentMoniker": "ThirdProject\\Duration.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\OOP\\Assignment03\\ThirdProject\\Duration.cs",
+              "RelativeToolTip": "ThirdProject\\Duration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T09:56:41.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\OOP\\Assignment03\\ThirdProject\\Program.cs",
+              "RelativeDocumentMoniker": "ThirdProject\\Program.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\OOP\\Assignment03\\ThirdProject\\Program.cs",
+              "RelativeToolTip": "ThirdProject\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T09:49:51.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Math.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\OOP\\Assignment03\\SecondProject\\Math.cs",
+              "RelativeDocumentMoniker": "SecondProject\\Math.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\OOP\\Assignment03\\SecondProject\\Math.cs",
+              "RelativeToolTip": "SecondProject\\Math.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T09:31:57.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\OOP\\Assignment03\\SecondProject\\Program.cs",
+              "RelativeDocumentMoniker": "SecondProject\\Program.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\OOP\\Assignment03\\SecondProject\\Program.cs",
+              "RelativeToolTip": "SecondProject\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T09:31:27.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Point3D.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\OOP\\Assignment03\\Assignment03\\Point3D.cs",
+              "RelativeDocumentMoniker": "Assignment03\\Point3D.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\OOP\\Assignment03\\Assignment03\\Point3D.cs",
+              "RelativeToolTip": "Assignment03\\Point3D.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwDMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:47:00.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\OOP\\Assignment03\\Assignment03\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment03\\Program.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\OOP\\Assignment03\\Assignment03\\Program.cs",
+              "RelativeToolTip": "Assignment03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:53:06.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

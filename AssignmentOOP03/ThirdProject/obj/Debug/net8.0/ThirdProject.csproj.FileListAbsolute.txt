@@ -1,0 +1,14 @@
+F:\RouteAcademy\Assignments\OOP\Assignment03\ThirdProject\bin\Debug\net8.0\ThirdProject.exe
+F:\RouteAcademy\Assignments\OOP\Assignment03\ThirdProject\bin\Debug\net8.0\ThirdProject.deps.json
+F:\RouteAcademy\Assignments\OOP\Assignment03\ThirdProject\bin\Debug\net8.0\ThirdProject.runtimeconfig.json
+F:\RouteAcademy\Assignments\OOP\Assignment03\ThirdProject\bin\Debug\net8.0\ThirdProject.dll
+F:\RouteAcademy\Assignments\OOP\Assignment03\ThirdProject\bin\Debug\net8.0\ThirdProject.pdb
+F:\RouteAcademy\Assignments\OOP\Assignment03\ThirdProject\obj\Debug\net8.0\ThirdProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\RouteAcademy\Assignments\OOP\Assignment03\ThirdProject\obj\Debug\net8.0\ThirdProject.AssemblyInfoInputs.cache
+F:\RouteAcademy\Assignments\OOP\Assignment03\ThirdProject\obj\Debug\net8.0\ThirdProject.AssemblyInfo.cs
+F:\RouteAcademy\Assignments\OOP\Assignment03\ThirdProject\obj\Debug\net8.0\ThirdProject.csproj.CoreCompileInputs.cache
+F:\RouteAcademy\Assignments\OOP\Assignment03\ThirdProject\obj\Debug\net8.0\ThirdProject.dll
+F:\RouteAcademy\Assignments\OOP\Assignment03\ThirdProject\obj\Debug\net8.0\refint\ThirdProject.dll
+F:\RouteAcademy\Assignments\OOP\Assignment03\ThirdProject\obj\Debug\net8.0\ThirdProject.pdb
+F:\RouteAcademy\Assignments\OOP\Assignment03\ThirdProject\obj\Debug\net8.0\ThirdProject.genruntimeconfig.cache
+F:\RouteAcademy\Assignments\OOP\Assignment03\ThirdProject\obj\Debug\net8.0\ref\ThirdProject.dll

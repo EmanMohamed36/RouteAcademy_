@@ -1,0 +1,14 @@
+F:\RouteAcademy\Assignments\OOP\Assignment03\SecondProject\bin\Debug\net8.0\SecondProject.exe
+F:\RouteAcademy\Assignments\OOP\Assignment03\SecondProject\bin\Debug\net8.0\SecondProject.deps.json
+F:\RouteAcademy\Assignments\OOP\Assignment03\SecondProject\bin\Debug\net8.0\SecondProject.runtimeconfig.json
+F:\RouteAcademy\Assignments\OOP\Assignment03\SecondProject\bin\Debug\net8.0\SecondProject.dll
+F:\RouteAcademy\Assignments\OOP\Assignment03\SecondProject\bin\Debug\net8.0\SecondProject.pdb
+F:\RouteAcademy\Assignments\OOP\Assignment03\SecondProject\obj\Debug\net8.0\SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\RouteAcademy\Assignments\OOP\Assignment03\SecondProject\obj\Debug\net8.0\SecondProject.AssemblyInfoInputs.cache
+F:\RouteAcademy\Assignments\OOP\Assignment03\SecondProject\obj\Debug\net8.0\SecondProject.AssemblyInfo.cs
+F:\RouteAcademy\Assignments\OOP\Assignment03\SecondProject\obj\Debug\net8.0\SecondProject.csproj.CoreCompileInputs.cache
+F:\RouteAcademy\Assignments\OOP\Assignment03\SecondProject\obj\Debug\net8.0\SecondProject.dll
+F:\RouteAcademy\Assignments\OOP\Assignment03\SecondProject\obj\Debug\net8.0\refint\SecondProject.dll
+F:\RouteAcademy\Assignments\OOP\Assignment03\SecondProject\obj\Debug\net8.0\SecondProject.pdb
+F:\RouteAcademy\Assignments\OOP\Assignment03\SecondProject\obj\Debug\net8.0\SecondProject.genruntimeconfig.cache
+F:\RouteAcademy\Assignments\OOP\Assignment03\SecondProject\obj\Debug\net8.0\ref\SecondProject.dll
