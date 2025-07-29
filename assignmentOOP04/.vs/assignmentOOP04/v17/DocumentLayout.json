@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\RouteAcademy\\Assignments\\OOP\\assignmentOOP04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\RouteAcademy\\Assignments\\OOP\\assignmentOOP04\\Part01\u0026Part02_Q1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Part01\u0026Part02_Q1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5277ED-3CD0-4CD4-B883-3FB639935FD2}|Part02_Q2\\Part02_Q2.csproj|f:\\routeacademy\\assignments\\oop\\assignmentoop04\\part02_q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D5277ED-3CD0-4CD4-B883-3FB639935FD2}|Part02_Q2\\Part02_Q2.csproj|solutionrelative:part02_q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\RouteAcademy\\Assignments\\OOP\\assignmentOOP04\\assignmentOOP04\\Part02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assignmentOOP04\\Part02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\RouteAcademy\\Assignments\\OOP\\assignmentOOP04\\assignmentOOP04\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assignmentOOP04\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\OOP\\assignmentOOP04\\Part01\u0026Part02_Q1\\Program.cs",
+              "RelativeDocumentMoniker": "Part01\u0026Part02_Q1\\Program.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\OOP\\assignmentOOP04\\Part01\u0026Part02_Q1\\Program.cs",
+              "RelativeToolTip": "Part01\u0026Part02_Q1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:02:49.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\OOP\\assignmentOOP04\\Part02_Q2\\Program.cs",
+              "RelativeDocumentMoniker": "Part02_Q2\\Program.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\OOP\\assignmentOOP04\\Part02_Q2\\Program.cs",
+              "RelativeToolTip": "Part02_Q2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:43:23.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Part02.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\OOP\\assignmentOOP04\\assignmentOOP04\\Part02.cs",
+              "RelativeDocumentMoniker": "assignmentOOP04\\Part02.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\OOP\\assignmentOOP04\\assignmentOOP04\\Part02.cs",
+              "RelativeToolTip": "assignmentOOP04\\Part02.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T16:26:30.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\OOP\\assignmentOOP04\\assignmentOOP04\\Program.cs",
+              "RelativeDocumentMoniker": "assignmentOOP04\\Program.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\OOP\\assignmentOOP04\\assignmentOOP04\\Program.cs",
+              "RelativeToolTip": "assignmentOOP04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T16:09:28.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
