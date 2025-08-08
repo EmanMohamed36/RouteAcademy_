@@ -1,0 +1,14 @@
+F:\RouteAcademy\Assignments\AdvancedC#\Assignment02C#Advanced\Assignment02C#Advanced\bin\Debug\net8.0\Assignment02C#Advanced.exe
+F:\RouteAcademy\Assignments\AdvancedC#\Assignment02C#Advanced\Assignment02C#Advanced\bin\Debug\net8.0\Assignment02C#Advanced.deps.json
+F:\RouteAcademy\Assignments\AdvancedC#\Assignment02C#Advanced\Assignment02C#Advanced\bin\Debug\net8.0\Assignment02C#Advanced.runtimeconfig.json
+F:\RouteAcademy\Assignments\AdvancedC#\Assignment02C#Advanced\Assignment02C#Advanced\bin\Debug\net8.0\Assignment02C#Advanced.dll
+F:\RouteAcademy\Assignments\AdvancedC#\Assignment02C#Advanced\Assignment02C#Advanced\bin\Debug\net8.0\Assignment02C#Advanced.pdb
+F:\RouteAcademy\Assignments\AdvancedC#\Assignment02C#Advanced\Assignment02C#Advanced\obj\Debug\net8.0\Assignment02C#Advanced.GeneratedMSBuildEditorConfig.editorconfig
+F:\RouteAcademy\Assignments\AdvancedC#\Assignment02C#Advanced\Assignment02C#Advanced\obj\Debug\net8.0\Assignment02C#Advanced.AssemblyInfoInputs.cache
+F:\RouteAcademy\Assignments\AdvancedC#\Assignment02C#Advanced\Assignment02C#Advanced\obj\Debug\net8.0\Assignment02C#Advanced.AssemblyInfo.cs
+F:\RouteAcademy\Assignments\AdvancedC#\Assignment02C#Advanced\Assignment02C#Advanced\obj\Debug\net8.0\Assignment02C#Advanced.csproj.CoreCompileInputs.cache
+F:\RouteAcademy\Assignments\AdvancedC#\Assignment02C#Advanced\Assignment02C#Advanced\obj\Debug\net8.0\Assignment02C#Advanced.dll
+F:\RouteAcademy\Assignments\AdvancedC#\Assignment02C#Advanced\Assignment02C#Advanced\obj\Debug\net8.0\refint\Assignment02C#Advanced.dll
+F:\RouteAcademy\Assignments\AdvancedC#\Assignment02C#Advanced\Assignment02C#Advanced\obj\Debug\net8.0\Assignment02C#Advanced.pdb
+F:\RouteAcademy\Assignments\AdvancedC#\Assignment02C#Advanced\Assignment02C#Advanced\obj\Debug\net8.0\Assignment02C#Advanced.genruntimeconfig.cache
+F:\RouteAcademy\Assignments\AdvancedC#\Assignment02C#Advanced\Assignment02C#Advanced\obj\Debug\net8.0\ref\Assignment02C#Advanced.dll
