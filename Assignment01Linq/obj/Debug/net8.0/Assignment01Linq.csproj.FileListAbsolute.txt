@@ -1,0 +1,14 @@
+F:\RouteAcademy\Assignments\LinQ\Assignment01Linq\Assignment01Linq\bin\Debug\net8.0\Assignment01Linq.exe
+F:\RouteAcademy\Assignments\LinQ\Assignment01Linq\Assignment01Linq\bin\Debug\net8.0\Assignment01Linq.deps.json
+F:\RouteAcademy\Assignments\LinQ\Assignment01Linq\Assignment01Linq\bin\Debug\net8.0\Assignment01Linq.runtimeconfig.json
+F:\RouteAcademy\Assignments\LinQ\Assignment01Linq\Assignment01Linq\bin\Debug\net8.0\Assignment01Linq.dll
+F:\RouteAcademy\Assignments\LinQ\Assignment01Linq\Assignment01Linq\bin\Debug\net8.0\Assignment01Linq.pdb
+F:\RouteAcademy\Assignments\LinQ\Assignment01Linq\Assignment01Linq\obj\Debug\net8.0\Assignment01Linq.GeneratedMSBuildEditorConfig.editorconfig
+F:\RouteAcademy\Assignments\LinQ\Assignment01Linq\Assignment01Linq\obj\Debug\net8.0\Assignment01Linq.AssemblyInfoInputs.cache
+F:\RouteAcademy\Assignments\LinQ\Assignment01Linq\Assignment01Linq\obj\Debug\net8.0\Assignment01Linq.AssemblyInfo.cs
+F:\RouteAcademy\Assignments\LinQ\Assignment01Linq\Assignment01Linq\obj\Debug\net8.0\Assignment01Linq.csproj.CoreCompileInputs.cache
+F:\RouteAcademy\Assignments\LinQ\Assignment01Linq\Assignment01Linq\obj\Debug\net8.0\Assignment01Linq.dll
+F:\RouteAcademy\Assignments\LinQ\Assignment01Linq\Assignment01Linq\obj\Debug\net8.0\refint\Assignment01Linq.dll
+F:\RouteAcademy\Assignments\LinQ\Assignment01Linq\Assignment01Linq\obj\Debug\net8.0\Assignment01Linq.pdb
+F:\RouteAcademy\Assignments\LinQ\Assignment01Linq\Assignment01Linq\obj\Debug\net8.0\Assignment01Linq.genruntimeconfig.cache
+F:\RouteAcademy\Assignments\LinQ\Assignment01Linq\Assignment01Linq\obj\Debug\net8.0\ref\Assignment01Linq.dll
