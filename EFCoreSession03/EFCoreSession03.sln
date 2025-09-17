@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MappingInheritance", "EFCoreSession03\MappingInheritance.csproj", "{D86A8E8E-7BD8-45F9-BD5B-F11FFF4AF1BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D86A8E8E-7BD8-45F9-BD5B-F11FFF4AF1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86A8E8E-7BD8-45F9-BD5B-F11FFF4AF1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86A8E8E-7BD8-45F9-BD5B-F11FFF4AF1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86A8E8E-7BD8-45F9-BD5B-F11FFF4AF1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F7AA129-1F8F-425A-A878-2019F5B23057}
+	EndGlobalSection
+EndGlobal

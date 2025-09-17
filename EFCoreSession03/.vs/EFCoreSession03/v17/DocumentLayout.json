@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|f:\\routeacademy\\assignments\\efcore\\efcoresession03\\database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|solutionrelative:database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|f:\\routeacademy\\assignments\\efcore\\efcoresession03\\database\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|f:\\routeacademy\\assignments\\efcore\\efcoresession03\\database\\models\\selectallcategoriesresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\selectallcategoriesresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|f:\\routeacademy\\assignments\\efcore\\efcoresession03\\database\\models\\salesbycategoryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\salesbycategoryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|f:\\routeacademy\\assignments\\efcore\\efcoresession03\\database\\models\\productsaboveaverageprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\productsaboveaverageprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|f:\\routeacademy\\assignments\\efcore\\efcoresession03\\database\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|f:\\routeacademy\\assignments\\efcore\\efcoresession03\\database\\models\\northwindcontextprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\northwindcontextprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|f:\\routeacademy\\assignments\\efcore\\efcoresession03\\database\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|f:\\routeacademy\\assignments\\efcore\\efcoresession03\\database\\models\\inorthwindcontextprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\inorthwindcontextprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|f:\\routeacademy\\assignments\\efcore\\efcoresession03\\database\\models\\dbcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\dbcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|f:\\routeacademy\\assignments\\efcore\\efcoresession03\\database\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|f:\\routeacademy\\assignments\\efcore\\efcoresession03\\database\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB98D68-9C9F-4EEB-927A-7D03B5F4A4BE}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86A8E8E-7BD8-45F9-BD5B-F11FFF4AF1BF}|EFCoreSession03\\EFCoreSession03.csproj|f:\\routeacademy\\assignments\\efcore\\efcoresession03\\efcoresession03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86A8E8E-7BD8-45F9-BD5B-F11FFF4AF1BF}|EFCoreSession03\\EFCoreSession03.csproj|solutionrelative:efcoresession03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86A8E8E-7BD8-45F9-BD5B-F11FFF4AF1BF}|EFCoreSession03\\MappingInheritance.csproj|f:\\routeacademy\\assignments\\efcore\\efcoresession03\\efcoresession03\\migrations\\mycompanycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86A8E8E-7BD8-45F9-BD5B-F11FFF4AF1BF}|EFCoreSession03\\MappingInheritance.csproj|solutionrelative:efcoresession03\\migrations\\mycompanycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86A8E8E-7BD8-45F9-BD5B-F11FFF4AF1BF}|EFCoreSession03\\MappingInheritance.csproj|f:\\routeacademy\\assignments\\efcore\\efcoresession03\\efcoresession03\\migrations\\20250915072708_addtphmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86A8E8E-7BD8-45F9-BD5B-F11FFF4AF1BF}|EFCoreSession03\\MappingInheritance.csproj|solutionrelative:efcoresession03\\migrations\\20250915072708_addtphmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86A8E8E-7BD8-45F9-BD5B-F11FFF4AF1BF}|EFCoreSession03\\MappingInheritance.csproj|f:\\routeacademy\\assignments\\efcore\\efcoresession03\\efcoresession03\\data\\mycompanycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86A8E8E-7BD8-45F9-BD5B-F11FFF4AF1BF}|EFCoreSession03\\MappingInheritance.csproj|solutionrelative:efcoresession03\\data\\mycompanycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86A8E8E-7BD8-45F9-BD5B-F11FFF4AF1BF}|EFCoreSession03\\MappingInheritance.csproj|f:\\routeacademy\\assignments\\efcore\\efcoresession03\\efcoresession03\\data\\models\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86A8E8E-7BD8-45F9-BD5B-F11FFF4AF1BF}|EFCoreSession03\\MappingInheritance.csproj|solutionrelative:efcoresession03\\data\\models\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86A8E8E-7BD8-45F9-BD5B-F11FFF4AF1BF}|EFCoreSession03\\MappingInheritance.csproj|f:\\routeacademy\\assignments\\efcore\\efcoresession03\\efcoresession03\\data\\models\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86A8E8E-7BD8-45F9-BD5B-F11FFF4AF1BF}|EFCoreSession03\\MappingInheritance.csproj|solutionrelative:efcoresession03\\data\\models\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86A8E8E-7BD8-45F9-BD5B-F11FFF4AF1BF}|EFCoreSession03\\MappingInheritance.csproj|f:\\routeacademy\\assignments\\efcore\\efcoresession03\\efcoresession03\\data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86A8E8E-7BD8-45F9-BD5B-F11FFF4AF1BF}|EFCoreSession03\\MappingInheritance.csproj|solutionrelative:efcoresession03\\data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86A8E8E-7BD8-45F9-BD5B-F11FFF4AF1BF}|EFCoreSession03\\MappingInheritance.csproj|f:\\routeacademy\\assignments\\efcore\\efcoresession03\\efcoresession03\\mappinginheritance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D86A8E8E-7BD8-45F9-BD5B-F11FFF4AF1BF}|EFCoreSession03\\MappingInheritance.csproj|solutionrelative:efcoresession03\\mappinginheritance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "DataBase\\Models\\Supplier.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Models\\Supplier.cs",
+              "RelativeToolTip": "DataBase\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:49:52.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SelectAllCategoriesResult.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Models\\SelectAllCategoriesResult.cs",
+              "RelativeDocumentMoniker": "DataBase\\Models\\SelectAllCategoriesResult.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Models\\SelectAllCategoriesResult.cs",
+              "RelativeToolTip": "DataBase\\Models\\SelectAllCategoriesResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:49:47.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesByCategoryResult.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Models\\SalesByCategoryResult.cs",
+              "RelativeDocumentMoniker": "DataBase\\Models\\SalesByCategoryResult.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Models\\SalesByCategoryResult.cs",
+              "RelativeToolTip": "DataBase\\Models\\SalesByCategoryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:49:41.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsAboveAveragePrice.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Models\\ProductsAboveAveragePrice.cs",
+              "RelativeDocumentMoniker": "DataBase\\Models\\ProductsAboveAveragePrice.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Models\\ProductsAboveAveragePrice.cs",
+              "RelativeToolTip": "DataBase\\Models\\ProductsAboveAveragePrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:49:36.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DataBase\\Models\\Product.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Models\\Product.cs",
+              "RelativeToolTip": "DataBase\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:49:30.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NorthwindContextProcedures.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Models\\NorthwindContextProcedures.cs",
+              "RelativeDocumentMoniker": "DataBase\\Models\\NorthwindContextProcedures.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Models\\NorthwindContextProcedures.cs",
+              "RelativeToolTip": "DataBase\\Models\\NorthwindContextProcedures.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:49:22.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Models\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "DataBase\\Models\\NorthwindContext.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Models\\NorthwindContext.cs",
+              "RelativeToolTip": "DataBase\\Models\\NorthwindContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:49:15.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "INorthwindContextProcedures.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Models\\INorthwindContextProcedures.cs",
+              "RelativeDocumentMoniker": "DataBase\\Models\\INorthwindContextProcedures.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Models\\INorthwindContextProcedures.cs",
+              "RelativeToolTip": "DataBase\\Models\\INorthwindContextProcedures.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:49:09.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbContextExtensions.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Models\\DbContextExtensions.cs",
+              "RelativeDocumentMoniker": "DataBase\\Models\\DbContextExtensions.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Models\\DbContextExtensions.cs",
+              "RelativeToolTip": "DataBase\\Models\\DbContextExtensions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:48:55.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "DataBase\\Models\\Customer.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Models\\Customer.cs",
+              "RelativeToolTip": "DataBase\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:48:47.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DataBase\\Models\\Category.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Models\\Category.cs",
+              "RelativeToolTip": "DataBase\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:48:29.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Program.cs",
+              "RelativeDocumentMoniker": "DataBase\\Program.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\DataBase\\Program.cs",
+              "RelativeToolTip": "DataBase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:47:07.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyCompanyContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\EFCoreSession03\\Migrations\\MyCompanyContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EFCoreSession03\\Migrations\\MyCompanyContextModelSnapshot.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\EFCoreSession03\\Migrations\\MyCompanyContextModelSnapshot.cs",
+              "RelativeToolTip": "EFCoreSession03\\Migrations\\MyCompanyContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:30:51.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250915072708_AddTPHMig.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\EFCoreSession03\\Migrations\\20250915072708_AddTPHMig.cs",
+              "RelativeDocumentMoniker": "EFCoreSession03\\Migrations\\20250915072708_AddTPHMig.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\EFCoreSession03\\Migrations\\20250915072708_AddTPHMig.cs",
+              "RelativeToolTip": "EFCoreSession03\\Migrations\\20250915072708_AddTPHMig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:30:30.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MappingInheritance.csproj",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\EFCoreSession03\\MappingInheritance.csproj",
+              "RelativeDocumentMoniker": "EFCoreSession03\\MappingInheritance.csproj",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\EFCoreSession03\\MappingInheritance.csproj",
+              "RelativeToolTip": "EFCoreSession03\\MappingInheritance.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-17T14:10:54.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MyCompanyContext.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\EFCoreSession03\\Data\\MyCompanyContext.cs",
+              "RelativeDocumentMoniker": "EFCoreSession03\\Data\\MyCompanyContext.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\EFCoreSession03\\Data\\MyCompanyContext.cs",
+              "RelativeToolTip": "EFCoreSession03\\Data\\MyCompanyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:16:45.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PartTimeEmployee.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\EFCoreSession03\\Data\\Models\\PartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "EFCoreSession03\\Data\\Models\\PartTimeEmployee.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\EFCoreSession03\\Data\\Models\\PartTimeEmployee.cs",
+              "RelativeToolTip": "EFCoreSession03\\Data\\Models\\PartTimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:16:43.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FullTimeEmployee.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\EFCoreSession03\\Data\\Models\\FullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "EFCoreSession03\\Data\\Models\\FullTimeEmployee.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\EFCoreSession03\\Data\\Models\\FullTimeEmployee.cs",
+              "RelativeToolTip": "EFCoreSession03\\Data\\Models\\FullTimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:16:40.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\EFCoreSession03\\Data\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EFCoreSession03\\Data\\Models\\Employee.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\EFCoreSession03\\Data\\Models\\Employee.cs",
+              "RelativeToolTip": "EFCoreSession03\\Data\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:16:25.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\EFCoreSession03\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreSession03\\Program.cs",
+              "ToolTip": "F:\\RouteAcademy\\Assignments\\EFCore\\EFCoreSession03\\EFCoreSession03\\Program.cs",
+              "RelativeToolTip": "EFCoreSession03\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:10:17.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
