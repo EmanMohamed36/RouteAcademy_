@@ -1,18 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\RouteAcademayVersion02\\MVC\\MVCSession01\\MVCSession01\\",
+  "WorkspaceRootPath": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|f:\\routeacademayversion02\\mvc\\mvcsession01\\mvcsession01\\webapplication01\\properties\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\properties\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|f:\\routeacademayversion02\\mvc\\mvcsession01\\mvcsession01\\webapplication01\\properties\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\properties\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|f:\\routeacademayversion02\\mvc\\mvcsession01\\mvcsession01\\webapplication01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\webapplication01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\webapplication01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication01\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication01\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T22:14:57.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApplication01",
+              "DocumentMoniker": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\WebApplication01.csproj",
+              "RelativeDocumentMoniker": "WebApplication01\\WebApplication01.csproj",
+              "ToolTip": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\WebApplication01.csproj",
+              "RelativeToolTip": "WebApplication01\\WebApplication01.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-23T22:06:44.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication01\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication01\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-23T22:05:15.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication01\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication01\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T21:59:25.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Movie.cs",
-              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession01\\MVCSession01\\WebApplication01\\Properties\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "WebApplication01\\Properties\\Models\\Movie.cs",
-              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession01\\MVCSession01\\WebApplication01\\Properties\\Models\\Movie.cs",
-              "RelativeToolTip": "WebApplication01\\Properties\\Models\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "WebApplication01\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Models\\Movie.cs",
+              "RelativeToolTip": "WebApplication01\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T20:09:13.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MoviesController.cs",
-              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession01\\MVCSession01\\WebApplication01\\Properties\\Controllers\\MoviesController.cs",
-              "RelativeDocumentMoniker": "WebApplication01\\Properties\\Controllers\\MoviesController.cs",
-              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession01\\MVCSession01\\WebApplication01\\Properties\\Controllers\\MoviesController.cs",
-              "RelativeToolTip": "WebApplication01\\Properties\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAzwEAAAAAIAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "WebApplication01\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "WebApplication01\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwAgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T15:22:46.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession01\\MVCSession01\\WebApplication01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication01\\Program.cs",
-              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession01\\MVCSession01\\WebApplication01\\Program.cs",
+              "ToolTip": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Program.cs",
               "RelativeToolTip": "WebApplication01\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAiwCcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T15:01:54.527Z",
               "EditorCaption": ""

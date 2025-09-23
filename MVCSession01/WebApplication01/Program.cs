@@ -30,7 +30,7 @@ namespace WebApplication01
                 var name = context.GetRouteValue("name");
                 await context.Response.WriteAsync($"Hello Miss {name}"); //mixed segment
             });
-
+            app.UseStaticFiles();
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{Controller}/{Action}/{id?}",
