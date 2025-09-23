@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\RouteAcademayVersion02\\MVC\\MVCSession01\\MVCSession01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|f:\\routeacademayversion02\\mvc\\mvcsession01\\mvcsession01\\webapplication01\\properties\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\properties\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|f:\\routeacademayversion02\\mvc\\mvcsession01\\mvcsession01\\webapplication01\\properties\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\properties\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|f:\\routeacademayversion02\\mvc\\mvcsession01\\mvcsession01\\webapplication01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession01\\MVCSession01\\WebApplication01\\Properties\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "WebApplication01\\Properties\\Models\\Movie.cs",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession01\\MVCSession01\\WebApplication01\\Properties\\Models\\Movie.cs",
+              "RelativeToolTip": "WebApplication01\\Properties\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T20:09:13.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession01\\MVCSession01\\WebApplication01\\Properties\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "WebApplication01\\Properties\\Controllers\\MoviesController.cs",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession01\\MVCSession01\\WebApplication01\\Properties\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "WebApplication01\\Properties\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwEAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T15:22:46.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession01\\MVCSession01\\WebApplication01\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication01\\Program.cs",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession01\\MVCSession01\\WebApplication01\\Program.cs",
+              "RelativeToolTip": "WebApplication01\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T15:01:54.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
