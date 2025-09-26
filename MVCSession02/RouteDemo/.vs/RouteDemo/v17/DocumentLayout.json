@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6372AAEE-A263-4028-A4A0-A9F33F25CA87}|Demo.DAL\\Demo.DAL.csproj|f:\\routeacademayversion02\\mvc\\mvcsession02\\routedemo\\demo.dal\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6372AAEE-A263-4028-A4A0-A9F33F25CA87}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6372AAEE-A263-4028-A4A0-A9F33F25CA87}|Demo.DAL\\Demo.DAL.csproj|f:\\routeacademayversion02\\mvc\\mvcsession02\\routedemo\\demo.dal\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6372AAEE-A263-4028-A4A0-A9F33F25CA87}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|f:\\routeacademayversion02\\mvc\\mvcsession02\\routedemo\\demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|f:\\routeacademayversion02\\mvc\\mvcsession02\\routedemo\\demo.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6372AAEE-A263-4028-A4A0-A9F33F25CA87}|Demo.DAL\\Demo.DAL.csproj|f:\\routeacademayversion02\\mvc\\mvcsession02\\routedemo\\demo.dal\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6372AAEE-A263-4028-A4A0-A9F33F25CA87}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6372AAEE-A263-4028-A4A0-A9F33F25CA87}|Demo.DAL\\Demo.DAL.csproj|f:\\routeacademayversion02\\mvc\\mvcsession02\\routedemo\\demo.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6372AAEE-A263-4028-A4A0-A9F33F25CA87}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6372AAEE-A263-4028-A4A0-A9F33F25CA87}|Demo.DAL\\Demo.DAL.csproj|f:\\routeacademayversion02\\mvc\\mvcsession02\\routedemo\\demo.dal\\demo.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6372AAEE-A263-4028-A4A0-A9F33F25CA87}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\demo.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6372AAEE-A263-4028-A4A0-A9F33F25CA87}|Demo.DAL\\Demo.DAL.csproj|f:\\routeacademayversion02\\mvc\\mvcsession02\\routedemo\\demo.dal\\data\\configurations\\departmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6372AAEE-A263-4028-A4A0-A9F33F25CA87}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\configurations\\departmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6372AAEE-A263-4028-A4A0-A9F33F25CA87}|Demo.DAL\\Demo.DAL.csproj|f:\\routeacademayversion02\\mvc\\mvcsession02\\routedemo\\demo.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6372AAEE-A263-4028-A4A0-A9F33F25CA87}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF5959A-2D02-4B52-BED3-7A0F88D90002}|Demo.BLL\\Demo.BLL.csproj|f:\\routeacademayversion02\\mvc\\mvcsession02\\routedemo\\demo.bll\\demo.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DF5959A-2D02-4B52-BED3-7A0F88D90002}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\demo.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|f:\\routeacademayversion02\\mvc\\mvcsession02\\routedemo\\demo.pl\\demo.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\demo.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|f:\\routeacademayversion02\\mvc\\mvcsession02\\routedemo\\demo.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|f:\\routeacademayversion02\\mvc\\mvcsession02\\routedemo\\demo.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|f:\\routeacademayversion02\\mvc\\mvcsession02\\routedemo\\demo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|f:\\routeacademayversion02\\mvc\\mvcsession02\\routedemo\\demo.pl\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|f:\\routeacademayversion02\\mvc\\mvcsession02\\routedemo\\demo.pl\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|f:\\routeacademayversion02\\mvc\\mvcsession02\\routedemo\\demo.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|f:\\routeacademayversion02\\mvc\\mvcsession02\\routedemo\\demo.pl\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|f:\\routeacademayversion02\\mvc\\mvcsession02\\routedemo\\demo.pl\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|f:\\routeacademayversion02\\mvc\\mvcsession02\\routedemo\\demo.pl\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|f:\\routeacademayversion02\\mvc\\mvcsession02\\routedemo\\demo.pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F464066B-C07C-4E1F-8F0E-6286F8F96F46}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo.PL\\appsettings.json",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\appsettings.json",
+              "RelativeToolTip": "Demo.PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T21:44:26.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.DAL\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.DAL\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "Demo.DAL\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T19:48:21.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T19:36:22.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.DAL\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\GlobalUsings.cs",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.DAL\\GlobalUsings.cs",
+              "RelativeToolTip": "Demo.DAL\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T19:31:04.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentConfigurations.cs",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.DAL\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.DAL\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T19:18:57.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.DAL\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\BaseEntity.cs",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.DAL\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T19:06:56.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.DAL\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\Department.cs",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.DAL\\Models\\Department.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\Department.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T19:06:45.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Demo.DAL",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.DAL\\Demo.DAL.csproj",
+              "RelativeDocumentMoniker": "Demo.DAL\\Demo.DAL.csproj",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.DAL\\Demo.DAL.csproj",
+              "RelativeToolTip": "Demo.DAL\\Demo.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T19:06:15.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Demo.BLL",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.BLL\\Demo.BLL.csproj",
+              "RelativeDocumentMoniker": "Demo.BLL\\Demo.BLL.csproj",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.BLL\\Demo.BLL.csproj",
+              "RelativeToolTip": "Demo.BLL\\Demo.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T18:55:02.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Demo.PL",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\Demo.PL.csproj",
+              "RelativeDocumentMoniker": "Demo.PL\\Demo.PL.csproj",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\Demo.PL.csproj",
+              "RelativeToolTip": "Demo.PL\\Demo.PL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T18:54:48.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Program.cs",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\Program.cs",
+              "RelativeToolTip": "Demo.PL\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwBkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:45:40.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Demo.PL\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Demo.PL\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T18:48:41.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:48:22.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\ViewModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\ViewModels\\ErrorViewModel.cs",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\ViewModels\\ErrorViewModel.cs",
+              "RelativeToolTip": "Demo.PL\\ViewModels\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:47:30.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T18:47:05.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T18:46:50.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T18:46:42.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T18:46:35.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T18:46:18.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T18:46:09.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\RouteAcademayVersion02\\MVC\\MVCSession02\\RouteDemo\\Demo.PL\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T18:46:07.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
