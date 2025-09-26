@@ -3,20 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\password\\routerepo\\routeacademy_\\mvcsession01\\webapplication01\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,37 +74,153 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication01\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplication01\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T17:14:32.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Views\\Account\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "WebApplication01\\Views\\Account\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Views\\Account\\SignIn.cshtml",
+              "RelativeToolTip": "WebApplication01\\Views\\Account\\SignIn.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T17:09:23.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication01\\Views\\Shared\\_AuthLayout.cshtml",
+              "ToolTip": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeToolTip": "WebApplication01\\Views\\Shared\\_AuthLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T17:01:14.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication01\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication01\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:59:13.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "WebApplication01\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "WebApplication01\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T16:50:14.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication01\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication01\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T16:48:59.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "WebApplication01\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "WebApplication01\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T16:44:09.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication01\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication01\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T15:32:12.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication01\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication01\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T15:27:07.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication01\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebApplication01\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAACsAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-23T22:14:57.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WebApplication01",
+              "DocumentIndex": 14,
+              "Title": "WebApplication01.csproj",
               "DocumentMoniker": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\WebApplication01.csproj",
               "RelativeDocumentMoniker": "WebApplication01\\WebApplication01.csproj",
               "ToolTip": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\WebApplication01.csproj",
               "RelativeToolTip": "WebApplication01\\WebApplication01.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-23T22:06:44.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T22:06:44.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WebApplication01\\Properties\\launchSettings.json",
@@ -76,25 +228,24 @@
               "RelativeToolTip": "WebApplication01\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-23T22:05:15.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T22:05:15.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebApplication01\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WebApplication01\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T21:59:25.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "WebApplication01\\Models\\Movie.cs",
@@ -102,8 +253,7 @@
               "RelativeToolTip": "WebApplication01\\Models\\Movie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T20:09:13.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T20:09:13.242Z"
             },
             {
               "$type": "Document",
@@ -113,14 +263,14 @@
               "RelativeDocumentMoniker": "WebApplication01\\Controllers\\MoviesController.cs",
               "ToolTip": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "WebApplication01\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAYwAgAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T15:22:46.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession01\\WebApplication01\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication01\\Program.cs",
@@ -128,8 +278,7 @@
               "RelativeToolTip": "WebApplication01\\Program.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAQwCAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T15:01:54.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T15:01:54.527Z"
             }
           ]
         }
