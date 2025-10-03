@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\RouteAcademayVersion02\\MVC\\MVCSession03\\RouteDemo\\Demo.Session04\\Demo.PL.csproj": {}
+    "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession03\\RouteDemo\\Demo.Session04\\Demo.PL.csproj": {}
   },
   "projects": {
-    "F:\\RouteAcademayVersion02\\MVC\\MVCSession03\\RouteDemo\\Demo.BLL\\Demo.BLL.csproj": {
+    "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession03\\RouteDemo\\Demo.BLL\\Demo.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\RouteAcademayVersion02\\MVC\\MVCSession03\\RouteDemo\\Demo.BLL\\Demo.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession03\\RouteDemo\\Demo.BLL\\Demo.BLL.csproj",
         "projectName": "Demo.BLL",
-        "projectPath": "F:\\RouteAcademayVersion02\\MVC\\MVCSession03\\RouteDemo\\Demo.BLL\\Demo.BLL.csproj",
+        "projectPath": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession03\\RouteDemo\\Demo.BLL\\Demo.BLL.csproj",
         "packagesPath": "C:\\Users\\password\\.nuget\\packages\\",
-        "outputPath": "F:\\RouteAcademayVersion02\\MVC\\MVCSession03\\RouteDemo\\Demo.BLL\\obj\\",
+        "outputPath": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession03\\RouteDemo\\Demo.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\RouteAcademayVersion02\\MVC\\MVCSession03\\RouteDemo\\Demo.DAL\\Demo.DAL.csproj": {
-                "projectPath": "F:\\RouteAcademayVersion02\\MVC\\MVCSession03\\RouteDemo\\Demo.DAL\\Demo.DAL.csproj"
+              "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession03\\RouteDemo\\Demo.DAL\\Demo.DAL.csproj": {
+                "projectPath": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession03\\RouteDemo\\Demo.DAL\\Demo.DAL.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "F:\\RouteAcademayVersion02\\MVC\\MVCSession03\\RouteDemo\\Demo.DAL\\Demo.DAL.csproj": {
+    "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession03\\RouteDemo\\Demo.DAL\\Demo.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\RouteAcademayVersion02\\MVC\\MVCSession03\\RouteDemo\\Demo.DAL\\Demo.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession03\\RouteDemo\\Demo.DAL\\Demo.DAL.csproj",
         "projectName": "Demo.DAL",
-        "projectPath": "F:\\RouteAcademayVersion02\\MVC\\MVCSession03\\RouteDemo\\Demo.DAL\\Demo.DAL.csproj",
+        "projectPath": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession03\\RouteDemo\\Demo.DAL\\Demo.DAL.csproj",
         "packagesPath": "C:\\Users\\password\\.nuget\\packages\\",
-        "outputPath": "F:\\RouteAcademayVersion02\\MVC\\MVCSession03\\RouteDemo\\Demo.DAL\\obj\\",
+        "outputPath": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession03\\RouteDemo\\Demo.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -158,14 +158,14 @@
         }
       }
     },
-    "F:\\RouteAcademayVersion02\\MVC\\MVCSession03\\RouteDemo\\Demo.Session04\\Demo.PL.csproj": {
+    "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession03\\RouteDemo\\Demo.Session04\\Demo.PL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\RouteAcademayVersion02\\MVC\\MVCSession03\\RouteDemo\\Demo.Session04\\Demo.PL.csproj",
+        "projectUniqueName": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession03\\RouteDemo\\Demo.Session04\\Demo.PL.csproj",
         "projectName": "Demo.PL",
-        "projectPath": "F:\\RouteAcademayVersion02\\MVC\\MVCSession03\\RouteDemo\\Demo.Session04\\Demo.PL.csproj",
+        "projectPath": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession03\\RouteDemo\\Demo.Session04\\Demo.PL.csproj",
         "packagesPath": "C:\\Users\\password\\.nuget\\packages\\",
-        "outputPath": "F:\\RouteAcademayVersion02\\MVC\\MVCSession03\\RouteDemo\\Demo.Session04\\obj\\",
+        "outputPath": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession03\\RouteDemo\\Demo.Session04\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -186,8 +186,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\RouteAcademayVersion02\\MVC\\MVCSession03\\RouteDemo\\Demo.BLL\\Demo.BLL.csproj": {
-                "projectPath": "F:\\RouteAcademayVersion02\\MVC\\MVCSession03\\RouteDemo\\Demo.BLL\\Demo.BLL.csproj"
+              "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession03\\RouteDemo\\Demo.BLL\\Demo.BLL.csproj": {
+                "projectPath": "C:\\Users\\password\\RouteRepo\\RouteAcademy_\\MVCSession03\\RouteDemo\\Demo.BLL\\Demo.BLL.csproj"
               }
             }
           }

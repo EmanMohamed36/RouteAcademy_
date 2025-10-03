@@ -1,4 +1,4 @@
-namespace Demo.Session04.Models
+namespace Demo.Session04.ViewModels
 {
     public class ErrorViewModel
     {

@@ -1,5 +1,5 @@
 using System.Diagnostics;
-using Demo.Session04.Models;
+using Demo.Session04.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Demo.Session04.Controllers

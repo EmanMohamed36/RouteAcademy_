@@ -1,0 +1,41 @@
+﻿@model CreatedDepartmentDTO
+
+<div class="row justify-content-center align-content-center mt-3">
+    <h1 class="col-8 my-2">Create Department</h1>
+    <br />
+
+    <form class="col-8" asp-action="Create" method="post">
+
+        <div asp-validation-summary="ModelOnly" class="text-danger">
+        </div>
+        <div class="mb-3">
+            <label asp-for="Code" class="form-label"></label>
+            <input asp-for="Code" class="form-control" placeholder="Department Code">
+            <span asp-validation-for="Code" class="text-danger"></span>
+        </div>
+
+        <div class=" mb-3 ">
+            <label asp-for="Name" class="form-label "></label>
+            <input asp-for="Name" class="form-control" placeholder="Department Name">
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class=" mb-3">
+            <label asp-for="Description" class="form-label"></label>
+            <textarea asp-for="Description" class="form-control" placeholder="Department Description"></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+        <div class=" mb-3">
+            <label asp-for="CreatedOn" class="form-label"></label>
+            <input asp-for="CreatedOn" class="form-control" type="date" placeholder="Department Code">
+            <span asp-validation-for="CreatedOn" class="text-danger"></span>
+        </div>
+        <div class="mt-4 m-auto">
+            <button type="submit" class="btn btn-primary">Create</button>
+            <a class="btn btn-outline-dark" asp-controller="Departments" asp-action="Index">Back to List</a>
+
+
+        </div>
+
+    </form>
+</div>
